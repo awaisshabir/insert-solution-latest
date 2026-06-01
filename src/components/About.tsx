@@ -26,7 +26,7 @@ const About = () => {
           className="text-center mb-16"
         >
           <h2 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
-            About <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">Insert Solutions</span>
+            About <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">Insert Solution</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Leading provider of enterprise healthcare and business solutions with over 15 years of excellence in software development and digital transformation.
@@ -44,7 +44,7 @@ const About = () => {
               Empowering Businesses with Innovative Technology
             </h3>
             <p className="text-gray-600 mb-6 leading-relaxed">
-              Insert Solutions is a leading software development company specializing in healthcare technology, enterprise solutions, and cloud-based applications. We combine technical expertise with industry knowledge to deliver solutions that drive business growth and operational excellence.
+              Insert Solution is a leading software development company specializing in healthcare technology, enterprise solutions, and cloud-based applications. We combine technical expertise with industry knowledge to deliver solutions that drive business growth and operational excellence.
             </p>
             <p className="text-gray-600 mb-8 leading-relaxed">
               Our mission is to transform healthcare delivery through innovative technology solutions that improve patient outcomes, streamline operations, and reduce costs. We work closely with our clients to understand their unique challenges and deliver tailored solutions that exceed expectations.

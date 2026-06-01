@@ -14,7 +14,7 @@ const Testimonials = () => {
       role: 'Chief Medical Officer',
       company: 'HealthCare Plus',
       image: '👩‍⚕️',
-      quote: 'Insert Solutions transformed our hospital management system. Their expertise in healthcare technology is unmatched. The Cureline platform has significantly improved our operational efficiency.',
+      quote: 'Insert Solution transformed our hospital management system. Their expertise in healthcare technology is unmatched. The Cureline platform has significantly improved our operational efficiency.',
       rating: 5,
     },
     {
@@ -22,7 +22,7 @@ const Testimonials = () => {
       role: 'CTO',
       company: 'TechMed Solutions',
       image: '👨‍💼',
-      quote: 'Working with Insert Solutions was a game-changer for our business. Their development team delivered a robust, scalable solution that exceeded our expectations. Highly recommended!',
+      quote: 'Working with Insert Solution was a game-changer for our business. Their development team delivered a robust, scalable solution that exceeded our expectations. Highly recommended!',
       rating: 5,
     },
     {
@@ -30,7 +30,7 @@ const Testimonials = () => {
       role: 'Director of Operations',
       company: 'Metro Clinic Network',
       image: '👩‍💼',
-      quote: 'The Tibbiq platform has revolutionized how we manage patient care. The team at Insert Solutions was professional, responsive, and delivered on time. Exceptional service!',
+      quote: 'The Tibbiq platform has revolutionized how we manage patient care. The team at Insert Solution was professional, responsive, and delivered on time. Exceptional service!',
       rating: 5,
     },
     {
@@ -38,7 +38,7 @@ const Testimonials = () => {
       role: 'VP Technology',
       company: 'PharmaCare Group',
       image: '👨‍💻',
-      quote: 'Insert Solutions helped us modernize our entire IT infrastructure. Their cloud migration expertise and ongoing support have been invaluable to our digital transformation journey.',
+      quote: 'Insert Solution helped us modernize our entire IT infrastructure. Their cloud migration expertise and ongoing support have been invaluable to our digital transformation journey.',
       rating: 5,
     },
     {

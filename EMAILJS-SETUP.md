@@ -45,7 +45,7 @@ Message:
 {{message}}
 
 ---
-This message was sent from the Insert Solutions website contact form.
+This message was sent from the Insert Solution website contact form.
 ```
 
 4. Template variables to use:
@@ -56,7 +56,7 @@ This message was sent from the Insert Solutions website contact form.
    - `{{message}}` - Message content
    - `{{to_name}}` - Recipient name (your company)
 
-5. Set the **To Email** to your company email (e.g., info@insertsolutions.com)
+5. Set the **To Email** to your company email (e.g., info@insertsolution.com)
 6. Click **Save**
 7. **Copy the Template ID** - you'll need this later
 

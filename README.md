@@ -1,4 +1,4 @@
-# Insert Solutions Website
+# Insert Solution Website
 
 A modern, enterprise-grade company website built with React, TypeScript, Tailwind CSS, and Framer Motion.
 
@@ -227,9 +227,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Contact
 
 For questions or support, please contact:
-- Email: info@insertsolutions.com
-- Website: [Insert Solutions](https://insertsolutions.com)
+- Email: info@insertsolution.com
+- Website: [Insert Solution](https://insertsolution.com)
 
 ---
 
-Built with ❤️ by Insert Solutions
+Built with ❤️ by Insert Solution

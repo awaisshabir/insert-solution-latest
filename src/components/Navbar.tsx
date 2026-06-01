@@ -50,7 +50,7 @@ const Navbar = () => {
             onClick={() => scrollToSection('#home')}
           >
             <span className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              Insert Solutions
+              Insert Solution
             </span>
           </motion.div>
 

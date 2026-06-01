@@ -35,7 +35,7 @@ const Contact = () => {
         phone: formData.phone,
         company: formData.company,
         message: formData.message,
-        to_name: 'Insert Solutions Team',
+        to_name: 'Insert Solution Team',
       };
 
       await emailjs.send(serviceId, templateId, templateParams, publicKey);
@@ -64,7 +64,7 @@ const Contact = () => {
     {
       icon: <HiMail className="w-6 h-6" />,
       title: 'Email',
-      details: ['info@insertsolutions.com', 'support@insertsolutions.com'],
+      details: ['info@insertsolution.com', 'support@insertsolution.com'],
       gradient: 'from-primary to-blue-600',
     },
     {

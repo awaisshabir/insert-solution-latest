@@ -55,7 +55,7 @@ const Footer = () => {
               className="mb-4"
             >
               <h3 className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                Insert Solutions
+                Insert Solution
               </h3>
             </motion.div>
             <p className="text-gray-400 mb-6 leading-relaxed">
@@ -124,7 +124,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-gray-400 text-sm">
-            © {new Date().getFullYear()} Insert Solutions. All rights reserved.
+            © {new Date().getFullYear()} Insert Solution. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm">
             <motion.a
